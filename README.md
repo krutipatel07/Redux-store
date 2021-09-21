@@ -4,7 +4,7 @@
 ## Description
 Shop Shop is a MERN stack e-commerce shop built with React-Redux and Stripe API.
             
-View the deployed page at [Shop-Shop Redux](https://dd-shop-redux.herokuapp.com/).
+View the deployed page at [Shop-Shop Redux](.).
 
 ## Contents
 * [Installation](#Installation)
